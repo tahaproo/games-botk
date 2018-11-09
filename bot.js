@@ -4,7 +4,7 @@ var prefix = ".";
 client.on('message', message => {
     if (message.content == ".fast") {
         var x = ["Crazy World",
-"DeathGames",
+"CrazyGames",
 "زيرو كنج",
 "أرض الأحلام",
 "ألبرازيل",
@@ -23,7 +23,7 @@ client.on('message', message => {
 "الحوت الأزرق",
 ];
         var x2 = ['Crazy World',
-        "DeathGames",
+        "CrazyGames",
         "زيرو كنج",
         "أرض الأحلام",
 		"ألبرازيل",
